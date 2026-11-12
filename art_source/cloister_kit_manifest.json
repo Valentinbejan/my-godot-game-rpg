@@ -1,0 +1,302 @@
+{
+  "fluted_column": {
+    "purpose": "6 m column; scale height for nave, halls, crypt and bridge supports",
+    "triangles": 4476,
+    "blender_dimensions_xyz": [
+      1.36,
+      1.36,
+      6.01
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_carving",
+      "cloister_stone"
+    ]
+  },
+  "pointed_arch": {
+    "purpose": "4.6 m clear-width entrance with carved voussoirs and layered archivolts",
+    "triangles": 3512,
+    "blender_dimensions_xyz": [
+      5.73,
+      1.16,
+      5.49
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_carving",
+      "cloister_stone"
+    ]
+  },
+  "tracery_bay": {
+    "purpose": "3 m wall recess, pointed lancets, rose tracery, carved sill",
+    "triangles": 4394,
+    "blender_dimensions_xyz": [
+      3.08,
+      0.8,
+      5.5
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_carving",
+      "cloister_glass",
+      "cloister_lumen",
+      "cloister_shadow",
+      "cloister_stone"
+    ]
+  },
+  "ribbed_vault": {
+    "purpose": "8 x 4 m barrel-vault bay with cross ribs; scalable across hall widths",
+    "triangles": 1728,
+    "blender_dimensions_xyz": [
+      8.259,
+      4.18,
+      2.731
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_ashlar",
+      "cloister_bronze",
+      "cloister_carving"
+    ]
+  },
+  "flagstone_floor": {
+    "purpose": "4 x 4 m dressed paving module with bevelled edges and subtle height wear",
+    "triangles": 704,
+    "blender_dimensions_xyz": [
+      3.98,
+      3.98,
+      0.074
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_mosaic",
+      "cloister_paving"
+    ]
+  },
+  "pilgrim_sarcophagus": {
+    "purpose": "1.5 x 2.5 m carved tomb with recumbent effigy, reused in crypt and gallery",
+    "triangles": 2900,
+    "blender_dimensions_xyz": [
+      1.62,
+      2.66,
+      1.33
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_ashlar",
+      "cloister_bronze",
+      "cloister_carving",
+      "cloister_stone"
+    ]
+  },
+  "votive_brazier": {
+    "purpose": "1.65 m bronze brazier, reusable warm light anchor",
+    "triangles": 3270,
+    "blender_dimensions_xyz": [
+      0.93,
+      0.93,
+      1.94
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_ember",
+      "cloister_patina",
+      "cloister_shadow"
+    ]
+  },
+  "votive_candles": {
+    "purpose": "Wax-dripped candle cluster and bronze tray",
+    "triangles": 1726,
+    "blender_dimensions_xyz": [
+      0.98,
+      0.735,
+      0.555
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_ember",
+      "cloister_ivory",
+      "cloister_shadow"
+    ]
+  },
+  "masonry_rubble": {
+    "purpose": "Broken carved stone cluster for perimeter dressing",
+    "triangles": 396,
+    "blender_dimensions_xyz": [
+      1.576,
+      0.984,
+      0.302
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_carving",
+      "cloister_stone"
+    ]
+  },
+  "ritual_banner": {
+    "purpose": "Draped 1.3 x 3 m cloth banner with a bronze celestial emblem",
+    "triangles": 1532,
+    "blender_dimensions_xyz": [
+      1.74,
+      0.3,
+      2.87
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_cloth",
+      "cloister_ivory"
+    ]
+  },
+  "celestial_shrine": {
+    "purpose": "Carved octagonal reliquary with bronze filigree and a crystal flame",
+    "triangles": 2586,
+    "blender_dimensions_xyz": [
+      3.8,
+      3.8,
+      2.54
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_carving",
+      "cloister_glass",
+      "cloister_lumen",
+      "cloister_patina",
+      "cloister_stone"
+    ]
+  },
+  "vow_gate": {
+    "purpose": "4.6 x 4.6 m ornate iron gate with a central celestial seal",
+    "triangles": 3106,
+    "blender_dimensions_xyz": [
+      4.34,
+      0.252,
+      4.6
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_patina"
+    ]
+  },
+  "drowned_pilgrim": {
+    "purpose": "2.15 m articulated drowned pilgrim with folded cowl, ritual armor and a hooked polearm",
+    "triangles": 7668,
+    "blender_dimensions_xyz": [
+      1.31,
+      0.806,
+      2.195
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_cloth",
+      "cloister_ivory",
+      "cloister_lumen",
+      "cloister_patina",
+      "cloister_shadow",
+      "cloister_steel",
+      "cloister_wood"
+    ]
+  },
+  "bell_keeper": {
+    "purpose": "4 m crowned guardian with a fractured halo, plated mantle, chains and bell hammer",
+    "triangles": 12568,
+    "blender_dimensions_xyz": [
+      2.896,
+      1.744,
+      4.6
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_cloth",
+      "cloister_ivory",
+      "cloister_lumen",
+      "cloister_patina",
+      "cloister_shadow",
+      "cloister_steel",
+      "cloister_wood"
+    ]
+  },
+  "sister_vale": {
+    "purpose": "2.15 m ivory-robed guide with candle staff; reusable cleric/statue silhouette",
+    "triangles": 7902,
+    "blender_dimensions_xyz": [
+      1.36,
+      0.806,
+      2.23
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_ember",
+      "cloister_ivory",
+      "cloister_lumen",
+      "cloister_patina",
+      "cloister_shadow",
+      "cloister_wood"
+    ]
+  },
+  "glass_moth": {
+    "purpose": "Articulated 1.9 m moth with scalloped glass wings, veins, antennae and eyespots",
+    "triangles": 5526,
+    "blender_dimensions_xyz": [
+      2.057,
+      0.23,
+      1.178
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_glass",
+      "cloister_ivory",
+      "cloister_lumen",
+      "cloister_patina",
+      "cloister_shadow"
+    ]
+  },
+  "pilgrim_longsword": {
+    "purpose": "First-person sword with diamond-section blade, fuller, wrapped grip and engraved guard",
+    "triangles": 2440,
+    "blender_dimensions_xyz": [
+      0.545,
+      0.128,
+      1.37
+    ],
+    "uv": true,
+    "materials": [
+      "cloister_bronze",
+      "cloister_cloth",
+      "cloister_glass",
+      "cloister_lumen",
+      "cloister_shadow",
+      "cloister_steel",
+      "cloister_wood"
+    ]
+  },
+  "pilgrim_gauntlet": {
+    "materials": [
+      "cloister_bronze",
+      "cloister_cloth",
+      "cloister_glass",
+      "cloister_patina",
+      "cloister_steel",
+      "cloister_wood"
+    ],
+    "uv": true,
+    "triangles": 3428,
+    "blender_dimensions_xyz": [
+      0.431,
+      0.271,
+      0.747
+    ],
+    "purpose": "Armored right hand and forearm; shares the longsword origin and wraps around its grip"
+  }
+}

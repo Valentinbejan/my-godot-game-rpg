@@ -1,0 +1,22 @@
+# Godot-generated caches
+.godot/
+/.import/
+/.mono/
+/android/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Local exports and build output
+/build/
+/builds/
+/exports/
+
+# Large local asset libraries (kept on disk, not stored in Git)
+/assets/audio/
+/assets/textures/
+

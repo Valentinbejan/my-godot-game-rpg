@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="PackedScene" path="res://assets/models/cloister_kit/ritual_banner.glb" id="1_model"]
+[ext_resource type="Script" path="res://scenes/props/cloister_kit/kit_materials.gd" id="2_palette"]
+
+[node name="RitualBanner" type="Node3D"]
+script = ExtResource("2_palette")
+metadata/art_asset = "ritual_banner"
+
+[node name="Model" parent="." instance=ExtResource("1_model")]

@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3]
+
+[ext_resource type="PackedScene" path="res://assets/models/cloister_kit/pointed_arch.glb" id="1_model"]
+[ext_resource type="Script" path="res://scenes/props/cloister_kit/kit_materials.gd" id="2_palette"]
+
+[sub_resource type="BoxShape3D" id="Shape_0"]
+size = Vector3(0.52, 3.0, 0.85)
+
+[sub_resource type="BoxShape3D" id="Shape_1"]
+size = Vector3(0.52, 3.0, 0.85)
+
+[node name="PointedArch" type="Node3D"]
+script = ExtResource("2_palette")
+metadata/art_asset = "pointed_arch"
+
+[node name="Model" parent="." instance=ExtResource("1_model")]
+
+[node name="Collision" type="StaticBody3D" parent="."]
+
+[node name="Shape0" type="CollisionShape3D" parent="Collision"]
+position = Vector3(-2.58, 1.5, 0)
+shape = SubResource("Shape_0")
+
+[node name="Shape1" type="CollisionShape3D" parent="Collision"]
+position = Vector3(2.58, 1.5, 0)
+shape = SubResource("Shape_1")
